@@ -2,48 +2,7 @@
 using System.ComponentModel;
 namespace college
 {
-    /* class Student
-     {
-         int id;
-         string name;
-         string branch;
-         float percentage;
-         static void Main(string[] args)
-         {
-             Student m = new Student();//classname variable_name=new classname
-             Student s = new Student();
 
-             /*s.id = 1;
-             s.name = "john";
-             s.branch = "cse";
-             s.percentage = 98;
-             m.id = 34;
-             m.name = "johny";
-             m.branch = "ece";
-             m.percentage = 75;
-             Console.WriteLine("student id "+m.id);
-             Console.WriteLine(m.name);
-             Console.WriteLine(m.percentage);
-             Console.WriteLine(m.branch);
-             Console.WriteLine(s.id);
-             Console.WriteLine(s.name);
-             Console.WriteLine(s.percentage);
-             Console.WriteLine(s.branch);
-             Console.ReadKey(); //
-
-             Console.WriteLine("Enter student id");
-             s.id = Convert.ToInt32(Console.ReadLine());
-             // Console.ReadLine();
-             Console.WriteLine("Enter Student name");
-             s.name = Console.ReadLine();
-             Console.WriteLine("Enter student percentage");
-             s.percentage = (float)Convert.ToDouble(Console.ReadLine());
-             Console.WriteLine("student id is " + s.id);
-             Console.WriteLine("Student name is " + s.name);
-             Console.WriteLine("student percentage is "+s.percentage);
-             Console.ReadLine() ; 
-         }
-     }*/
     class Student
     {
         int x = 12;
